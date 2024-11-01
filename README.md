@@ -1,4 +1,4 @@
-# Sempre-Vicas
+# Sempre-Vivas
 
 `Análise e Desenvolvimento de Sistemas`
 
