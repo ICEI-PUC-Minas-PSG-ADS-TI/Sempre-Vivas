@@ -1,23 +1,22 @@
-# TÍTULO DO PROJETO
+# Sempre-Vicas
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Trabalho Interdisciplinar: Aplicações para Processos de Negócios `
 
-`SEMESTRE`
+`2º semestre`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Tendo como objetivo conectar comunidades indígenas e quilombolas a um novo mercado, preservar suas práticas culturais e o meio ambiente e dar visibilidade às suas lutas e dificuldades, cria-se o projeto Sempre-Vivas. Uma ponte entre esses coletores com os consumidores que tenham o interesse, tanto na compra dos produtos como no apoio destas comunidades.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Fabia Rodrigues de Oliveira
+* Júlio Flávio Lages de Oliveira Júnior
+* Maria Eduarda Salomão
+* Matheus Dias Rodrigues de Sena
+* Yuri Martins Vieira
 
-## Orientador
-
-* Nome completo do professor 1
+## Cleia Marcia Gomes Amaral
 
 ## Instruções de utilização
 
