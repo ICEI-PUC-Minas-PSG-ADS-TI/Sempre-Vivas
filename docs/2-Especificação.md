@@ -28,18 +28,18 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO             | Negócio                            |
 |--------------------|------------------------------------|
-|Maria Fernandes     | Pequena floricultura de bairro     | 
-|Florista amadora    | em busca de fornecedores confiaveis| 
+|Maria Fernandes     | Pequena floricultura de bairro em busca de fornecedores confiaveis
+|Florista amadora    | 
 
 |EU COMO             | Negócio                            |
 |--------------------|------------------------------------|
-|Pedro Santos        | Especialista em cultivo em busca   |
-|Produtor            | de novos clientes                  |
+|Pedro Santos        | Especialista em cultivo em busca de novos clientes
+|Produtor            |
 
 |EU COMO             | Negócio                            |
 |--------------------|------------------------------------|
-|João Almeida        | Trabalha em uma empresa e valoriza |
-|Corporativo         | a sustentabilidade                 |
+|João Almeida        | Trabalha em uma empresa e valoriza a sustentabilidade|
+|Corporativo         |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
