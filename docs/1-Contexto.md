@@ -1,46 +1,25 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Tendo como objetivo conectar comunidades indígenas e quilombolas a um novo mercado, preservar suas práticas culturais e o meio ambiente e dar visibilidade às suas lutas e dificuldades, cria-se o projeto Sempre-Vivas. Uma ponte entre esses coletores com os consumidores que tenham o interesse, tanto na compra dos produtos como no apoio destas comunidades.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+No cenário atual, sem auxílio da plataforma, temos dificuldades evidentes em alguns processos; ter acesso a comunidades tradicionais e seus produtos é, comumente, uma conjectura trabalhosa e, possivelmente, onerosa, visto que estas podem estar situadas em localidades remotas e de difícil acesso e realizam a venda de suas mercadorias de forma unicamente presencial. Tal realidade, também acentuada pela falta de educação tecnológica dessas populações, acentua o distanciamento entre os povos tradicionais e o grande público, fomentando a invisibilidade desses grupos e seus percalços. Com a criação e implementação do site “Sempre-Vivas”, essas problemáticas serão mitigadas. Agora, o potencial consumidor poderá ter acesso a comunidades de todo o Brasil. Sua história, obstáculos, cultura e seus produtos poderão ser facilmente acessados por meio da plataforma, não havendo mais necessidade de grandes locomoções e gastos consideráveis para tal.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo do projeto é se fixar como uma forma de interação direta entre comunidades nativas e o mercado contemporâneo, enquanto preserva suas práticas e não descaracteriza sua cultura, promovendo, juntamente, a preservação ambiental.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Dentro do projeto se mantém a ideia de trazer oportunidades de negócio entre nativos e a população urbana e tornar a negociação simples com uma interface objetiva e acessível. Além disso, é também importante destacar o foco em trazer visibilidade para as comunidades indígenas e quilombolas, sua importância na nossa sociedade como um todo e a sua luta pela valorização de sua cultura.  
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+A acessibilidade e amplo alcance da tecnologia apresenta múltiplos benefícios para diversos segmentos profissionais, principalmente comércios online. Aos consumidores, a comodidade, preço vantajoso, usabilidade e praticidade que a pesquisa em domicílio próprio fornece é consequência direta da escolha habitual pelas lojas online. Assim como ilustra a pesquisa realizada pelo SPC Brasil (Serviço de Proteção ao Crédito) e CNDL (Confederação Nacional de Dirigentes Lojistas), em 2024. Com o resultado, 86% dos entrevistados afirmaram utilizar sistemas móveis para efetuar compras nos últimos 12 meses. Até mesmo para quem opta pela loja física, a pesquisa inicial online pelo produto é extremamente comum. Ademais, aos empreendedores que carecem de recursos suficientes para investimento em divulgação, como propagandas televisivas abertas e anúncios externos instalados, a tecnologia age enquanto um meio acessível.
+Paralelamente, a desvalorização socioeconômica de comunidades tradicionais, assim como a constante exploração e restrição de acesso aos recursos naturais responsáveis pela subsistência dessas famílias, necessita de denúncias com amplo alcance. Na Serra do Espinhaço, a criação do Parque Nacional das Sempre-Vivas impediu que populações locais utilizassem o território para a prática centenário e tradicional da coleta das flores, importante nos âmbitos econômico e cultural dessas populações. Mesmo que o conhecimento territorial compartilhado e aprimorado mediante gerações possibilite o uso dos recursos naturais de forma sustentável. Não obstante, práticas extrativistas predatórias como a mineração e o mono cultivo de eucalipto também ameaçam o ecossistema e as famílias residentes.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+"A forma de se defender é sair dessa invisibilidade em que foram colocados e lutar pelo seu território"
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Dessa forma, a necessidade de reconhecimento explicitado pela antropóloga e secretária executiva da Rede Cerrado Katia Favila, em entrevista para o jornal Brasil de Fato, demonstra a importância do desenvolvimento de uma plataforma voltada para a inclusão digital dos produtos comercializados por essas comunidades, assim como apresentar um ambiente confortável para compartilharem suas histórias, tradições, culturas e injustiças vivenciadas diariamente, a partir de uma ferramenta disponível para uma ampla gama de usuários. Sendo 28 segmentos de Povos e Comunidades Tradicionais reconhecidos pelo Estado Brasileiro, o projeto inicia uma luta pela valorização socioeconômica desses grupos, guardiões ambientais que devem ser consultados antes de qualquer manejo estrangeiro em seu território. Visando de tal modo alcançar os objetivos Cidades e Comunidades Sustentáveis, assim como a Redução das Desigualdades propostos pela ODS (Objetivos de Desenvolvimento Sustentável).
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Comunidades tradicionais de todo o Brasil e consumidores conscientes, curiosos e enjados quanto à cultura, ao comércio e à viviência das populações centenárias
