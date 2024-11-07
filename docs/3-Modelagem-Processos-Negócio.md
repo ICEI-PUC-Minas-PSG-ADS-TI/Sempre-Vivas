@@ -1,27 +1,24 @@
 ## 3. Modelagem dos Processos de Negócio
 
+### 3.1. Descrição geral da proposta (Modelagem TO BE)
 
-> **Links Úteis**:
-> - [Modelagem de Processos AS-IS x TO-BE](https://dheka.com.br/modelagem-as-is-to-be/)
-> - [20 Dicas Práticas de Modelagem de Processos](https://dheka.com.br/20-dicas-praticas-de-modelagem-de-processos/)
-
-### 3.1. Modelagem da situação atual (Modelagem AS IS)
-
-_Apresente uma descrição textual de como os sistemas atuais resolvem o problema que se propõe a resolver.  Caso sua proposta seja inovadora e não existam processos claramente definidos, **apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente**, mesmo que não se utilize tecnologia computacional._
-
-Com o tema do projeto definido, escolham alguns processos neste contexto de negócios. Para ilustrar potenciais ganhos com a automatização, imaginem processos manuais, ineficientes e/ou com muitas idas e vindas, gerando, assim, retrabalho.
-Colem aqui os modelos dos processos atuais (modelo AS-IS), elaborados com o apoio da ferramenta baseada em BPMN utilizada na disciplina.
-
-### 3.2. Descrição geral da proposta (Modelagem TO BE)
-
-Tendo identificado os gargalos dos modelos AS IS, apresentem uma descrição da proposta de solução, buscando maior eficiência com a introdução da tecnologia. Abordem também os limites dessa solução e o seu alinhamento com as estratégias e objetivos do contexto de negócio escolhido. 
-Colem aqui os modelos da solução proposta (modelo TO BE) elaborados com o apoio da ferramenta baseada em BPMN utilizada na disciplina.
-Cada processo identificado deve ter seu modelo TO-BE específico. Descrevam as oportunidades de melhoria de cada processo da solução proposta.
-
-_Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias._
+No cenário atual, sem auxílio da plataforma, temos dificuldades evidentes em alguns processos; ter acesso a comunidades tradicionais e seus produtos é, comumente, uma conjectura trabalhosa e, possivelmente, onerosa, visto que estas podem estar situadas em localidades remotas e de difícil acesso e realizam a venda de suas mercadorias de forma unicamente presencial. Tal realidade, também acentuada pela falta de educação tecnológica dessas populações, acentua o distanciamento entre os povos tradicionais e o grande público, fomentando a invisibilidade desses grupos e seus percalços. Com a criação e implementação do site “Sempre-Vivas”, essas problemáticas serão mitigadas. Agora, o potencial consumidor poderá ter acesso a comunidades de todo o Brasil. Sua história, obstáculos, cultura e seus produtos poderão ser facilmente acessados por meio da plataforma, não havendo mais necessidade de grandes locomoções e gastos consideráveis para tal.
 
 ### 3.3. Modelagem dos processos
 
-[PROCESSO 1 - Nome do Processo](./processos/processo-1-nome-do-processo.md "Detalhamento do Processo 1.")
+[PROCESSO 1 - Cadastro Comunidade](./processos/processo-1-nome-do-processo.md "Detalhamento do Processo 1.")
 
-[PROCESSO 2 - Nome do Processo](./processos/processo-2-nome-do-processo.md "Detalhamento do Processo 2.")
+[PROCESSO 2 - Cadastro Cliente](./processos/processo-2-nome-do-processo.md "Detalhamento do Processo 2.")
+
+[PROCESSO 3 - Cadastrar Produto](./processos/processo-2-nome-do-processo.md "Detalhamento do Processo 2.")
+
+[PROCESSO 4 - Fazer Pedido](./processos/processo-2-nome-do-processo.md "Detalhamento do Processo 2.")
+
+[PROCESSO 5 - Lagin](./processos/processo-2-nome-do-processo.md "Detalhamento do Processo 2.")
+
+[PROCESSO 6 - Avaliação](./processos/processo-2-nome-do-processo.md "Detalhamento do Processo 2.")
+
+[PROCESSO 7 - Carrinho](./processos/processo-2-nome-do-processo.md "Detalhamento do Processo 2.")
+
+[PROCESSO 8 - Pagamento](./processos/processo-2-nome-do-processo.md "Detalhamento do Processo 2.")
+
