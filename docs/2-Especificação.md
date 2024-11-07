@@ -26,25 +26,20 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO             | Negócio                            |PARA                                    |
-|--------------------|------------------------------------|----------------------------------------|
-|Maria Fernandes     | Pequena floricultura de bairro     | Não esquecer de fazê-las               |
-|Florista amadora    | em busca de fornecedores confiaveis| Permitir que possam administrar contas |
+|EU COMO             | Negócio                            |
+|--------------------|------------------------------------|
+|Maria Fernandes     | Pequena floricultura de bairro     | 
+|Florista amadora    | em busca de fornecedores confiaveis| 
 
-|EU COMO             | QUERO/PRECISO                      |PARA                                    |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO             | Negócio                            |
+|--------------------|------------------------------------|
+|Pedro Santos        | Especialista em cultivo em busca   |
+|Produtor            | de novos clientes                  |
 
-|EU COMO             | QUERO/PRECISO                      |PARA                                    |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-|EU COMO             | QUERO/PRECISO                      |PARA                                    |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO             | Negócio                            |
+|--------------------|------------------------------------|
+|João Almeida        | Trabalha em uma empresa e valoriza |
+|Corporativo         | a sustentabilidade                 |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
