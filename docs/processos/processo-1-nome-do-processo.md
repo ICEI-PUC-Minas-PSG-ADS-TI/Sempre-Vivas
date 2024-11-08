@@ -21,22 +21,22 @@ _O usuário inicia o processo selecionando a opção “Cadastrar Novo” e esco
 | Descrição | Caixa de Texto | Inserção obrigatória de caracteres albabéticos |                   |
 
 
-
-
 | **Comandos**         |  **Destino**                   | **Tipo** |
 | ---                  | ---                            | ---               |
 | Cadastrar comunidade | Direcionamento para o cadastro do representante  | Default |
 | Cancelar cadastro | Retorno para página inicial sem usuário logado/cadastrado| Cancel |
 
 
+
 **Preencher Dados do Representante**
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
-| Nome Completo | Caixa de Texto | Máximo 100 caracteres |                   |
+| Nome Completo | Caixa de Texto | Inserção obrigatória de no máximo 100 caracteres |                   |
 | Telefone | Caixa de Texto | Inserção obrigatória de caracteres núméricos/Máximo 9 caracteres |                   |
-| Papel Social | Caixa de Texto | Máximo 100 caracteres |                   |
+| Papel Social | Caixa de Texto | Inserção obrigatória de no máximo 100 caracteres |                   |
 | Email | Caixa de Texto | Obrigatória inserção de texto no formato email |                   |
+| Descrição Vínculo | Caixa de Texto | Inserção obrigatória de no máximo 2000 caracteres |                   |
 
 
 | **Comandos**         |  **Destino**                   | **Tipo**          |
