@@ -1,67 +1,45 @@
-### 3.3.1 Processo 1 – NOME DO PROCESSO
+### 3.3.1 Processo 1 – Cadastrar Comunidade
 
-_Apresente aqui o nome e as oportunidades de melhoria para o processo 1. 
-Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN._
+
 
 ![Exemplo de um Modelo BPMN do PROCESSO 1](../processos/imagens/cadastroComunidade.png)
 
 #### Detalhamento das atividades
 
-_Descreva aqui cada uma das propriedades das atividades do processo 1. 
-Devem estar relacionadas com o modelo de processo apresentado anteriormente._
-
-_Os tipos de dados a serem utilizados são:_
-
-_* **Área de texto** - campo texto de múltiplas linhas_
-
-_* **Caixa de texto** - campo texto de uma linha_
-
-_* **Número** - campo numérico_
-
-_* **Data** - campo do tipo data (dd-mm-aaaa)_
-
-_* **Hora** - campo do tipo hora (hh:mm:ss)_
-
-_* **Data e Hora** - campo do tipo data e hora (dd-mm-aaaa, hh:mm:ss)_
-
-_* **Imagem** - campo contendo uma imagem_
-
-_* **Seleção única** - campo com várias opções de valores que são mutuamente exclusivas (tradicional radio button ou combobox)_
-
-_* **Seleção múltipla** - campo com várias opções que podem ser selecionadas mutuamente (tradicional checkbox ou listbox)_
-
-_* **Arquivo** - campo de upload de documento_
-
-_* **Link** - campo que armazena uma URL_
-
-_* **Tabela** - campo formado por uma matriz de valores_
+_O usuário inicia o processo selecionando a opção “Cadastrar Novo” e escolhe o tipo de registro desejado. Em seguida, ele preenche as informações da nova comunidade e dos dados do representante, concluindo o cadastro._
 
 
-**Nome da atividade 1**
+**Preecher Dados do Grupo**
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
-| [Nome do campo] | [tipo de dados]  |                |                   |
-| ***Exemplo:***  |                  |                |                   |
-| login           | Caixa de Texto   | formato de e-mail |                |
-| senha           | Caixa de Texto   | mínimo de 8 caracteres |           |
+| Nome Comunidade | Caixa de Texto | Inserção obrigatória de caracteres obrigatórios |                   |
+| Características Geográfica | Caixa de Texto | Inserção obrigatória de caracteres albabéticos |                |
+| Estado | Caixa de Seleção  | Obrigatória a Escolha de um dos Campos  |           |
+| CIdade | Caixa de Seleção  | Obrigatória a Escolha de um dos Campos |           |
+| Tipo de Área | Caixa de Seleção  | Obrigatória a Escolha de um dos Campos  |           |
+| Descrição | Caixa de Texto | Inserção obrigatória de caracteres albabéticos |                   |
+
+
+
 
 | **Comandos**         |  **Destino**                   | **Tipo** |
 | ---                  | ---                            | ---               |
-| [Nome do botão/link] | Atividade/processo de destino  | (default/cancel/  ) |
-| ***Exemplo:***       |                                |                   |
-| entrar               | Fim do Processo 1              | default           |
-| cadastrar            | Início do proceso de cadastro  |                   |
+| Cadastrar comunidade | Direcionamento para o cadastro do representante  | Default |
+| Cancelar cadastro | Retorno para página inicial sem usuário logado/cadastrado| Cancel |
 
 
-**Nome da atividade 2**
+**Preencher Dados do Representante**
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
-| [Nome do campo] | [tipo de dados]  |                |                   |
-|                 |                  |                |                   |
+| Nome Completo | Caixa de Texto | Máximo 100 caracteres |                   |
+| Telefone | Caixa de Texto | Inserção obrigatória de caracteres núméricos/Máximo 9 caracteres |                   |
+| Papel Social | Caixa de Texto | Máximo 100 caracteres |                   |
+| Email | Caixa de Texto | Obrigatória inserção de texto no formato email |                   |
+
 
 | **Comandos**         |  **Destino**                   | **Tipo**          |
 | ---                  | ---                            | ---               |
-| [Nome do botão/link] | Atividade/processo de destino  | (default/cancel/  ) |
-|                      |                                |                   |
+| Cadastrar Representante | Direcionamento para página inicial com usuário logado/cadastrado | Default |
+| Cancelar Cadastro | Direcionamento para página inicial com usuário não logado/cadastrado | Cancel |
