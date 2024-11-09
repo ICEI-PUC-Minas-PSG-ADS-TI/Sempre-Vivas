@@ -10,9 +10,9 @@ No cenário atual, sem auxílio da plataforma, temos dificuldades evidentes em a
 
 [PROCESSO 2 - Cadastro Cliente](./processos/processo-2-nome-do-processo.md "Detalhamento do Processo 2.")
 
-[PROCESSO 3 - Cadastrar Produto](./processos/processo-2-nome-do-processo.md "Detalhamento do Processo 2.")
+[PROCESSO 3 - Cadastro Produto](./processos/processo-2-nome-do-processo.md "Detalhamento do Processo 2.")
 
-[PROCESSO 4 - Fazer Pedido](./processos/processo-2-nome-do-processo.md "Detalhamento do Processo 2.")
+[PROCESSO 4 - Pedido](./processos/processo-2-nome-do-processo.md "Detalhamento do Processo 2.")
 
 [PROCESSO 5 - Lagin](./processos/processo-2-nome-do-processo.md "Detalhamento do Processo 2.")
 
