@@ -6,17 +6,17 @@ No cenário atual, sem auxílio da plataforma, temos dificuldades evidentes em a
 
 ### 3.3. Modelagem dos processos
 
-[PROCESSO 1 - Cadastro Comunidade](./processos/processo-1-cadastro-comunidade.md).
+[PROCESSO 1 - Cadastro Comunidade](./processos/processo-1-cadastro-comunidade.md)
 
-[PROCESSO 2 - Cadastro Cliente](./processos/processo-2-cadastro-cliente.md).
+[PROCESSO 2 - Cadastro Cliente](./processos/processo-2-cadastro-cliente.md)
 
 [PROCESSO 3 - Cadastro Produto](./processos/processo-2-nome-do-processo.md "Detalhamento do Processo 2.")
 
 [PROCESSO 4 - Pedido](./processos/processo-2-nome-do-processo.md "Detalhamento do Processo 2.")
 
-[PROCESSO 5 - Login](./processos/processo-2-nome-do-processo.md "Detalhamento do Processo 2.")
+[PROCESSO 5 - Login](./processos/processo-5-login.md)
 
-[PROCESSO 6 - Avaliação](./processos/processo-2-nome-do-processo.md "Detalhamento do Processo 2.")
+[PROCESSO 6 - Avaliação](./processos/processo-6-avaliacao.md)
 
 [PROCESSO 7 - Carrinho](./processos/processo-2-nome-do-processo.md "Detalhamento do Processo 2.")
 
