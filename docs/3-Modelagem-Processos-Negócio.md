@@ -6,9 +6,9 @@ No cenário atual, sem auxílio da plataforma, temos dificuldades evidentes em a
 
 ### 3.3. Modelagem dos processos
 
-[PROCESSO 1 - Cadastro Comunidade](./processos/processo-1-nome-do-processo.md "Detalhamento do Processo 1.")
+[PROCESSO 1 - Cadastro Comunidade](./processos/processo-1-cadastro-comunidade)
 
-[PROCESSO 2 - Cadastro Cliente](./processos/processo-2-nome-do-processo.md "Detalhamento do Processo 2.")
+[PROCESSO 2 - Cadastro Cliente](./processos/processo-2-cadastro-cliente)
 
 [PROCESSO 3 - Cadastro Produto](./processos/processo-2-nome-do-processo.md "Detalhamento do Processo 2.")
 
