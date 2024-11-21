@@ -2,7 +2,7 @@
 
 
 
-![Modelo BPMN do PROCESSO 5](../docs/processos/imagens/login.png)
+![Modelo BPMN do PROCESSO 5](../processos/imagens/login.png)
 
 #### Detalhamento das atividades
 
