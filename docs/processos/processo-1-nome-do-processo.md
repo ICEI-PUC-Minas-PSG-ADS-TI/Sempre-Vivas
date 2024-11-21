@@ -28,7 +28,7 @@ _O usuário inicia o processo selecionando a opção “Cadastrar Novo” e esco
 
 
 
-**Preencher Dados do Representante**
+**Preencher Dados do Representante Pertencente ao Grupo**
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
 | ---             | ---              | ---            | ---               |
@@ -37,6 +37,35 @@ _O usuário inicia o processo selecionando a opção “Cadastrar Novo” e esco
 | Papel Social | Caixa de Texto | Inserção obrigatória de no máximo 100 caracteres |                   |
 | Email | Caixa de Texto | Obrigatória inserção de texto no formato email |                   |
 | Descrição Vínculo | Caixa de Texto | Inserção obrigatória de no máximo 2000 caracteres |                   |
+| Usuário | Caixa de Texto | Inserção obrigatória de no máximo 2000 caracteres; Mínimo 4 letras; Mínimo umm número ou caractere especial |                   |
+| Senha | Caixa de Texto | Mínimo 8 caracteres; Mínimo 2 letras, 4 números e um caracter especial |                   |
+
+
+
+| **Comandos**         |  **Destino**                   | **Tipo**          |
+| ---                  | ---                            | ---               |
+| Cadastrar Representante | Direcionamento para página inicial com usuário logado/cadastrado | Default |
+| Cancelar Cadastro | Direcionamento para página inicial com usuário não logado/cadastrado | Cancel |
+
+
+
+**Preencher Dados do Representante Pertencente á uma Organização Representativa**
+
+| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
+| ---             | ---              | ---            | ---               |
+| Nome Organização | Caixa de Texto | Inserção obrigatória de no máximo 100 caracteres |                   |
+| Telefone | Caixa de Texto | Inserção obrigatória de caracteres núméricos/Máximo 9 caracteres |                   |
+| Email | Caixa de Texto | Obrigatória inserção de texto no formato email |                   |
+| Estado | Caixa de Texto | Inserção obrigatória de no máximo 100 caracteres |                   |
+| Cidade | Caixa de Texto | Inserção obrigatória de no máximo 100 caracteres |                   |
+| Logradouro | Caixa de Texto | Inserção obrigatória de no máximo 255 caracteres |                   |
+| Bairro | Caixa de Texto | Inserção obrigatória de no máximo 100 caracteres |                   |
+| CEP | Caixa de Texto | Inserção obrigatória de 8 dígitos |                   |
+| Complemento | Caixa de Texto | Inserção obrigatória de no máximo 100 caracteres |                   |
+| CNPJ | Caixa de Texto | Inserção obrigatória de 14 dígitos |                   |
+| Usuário | Caixa de Texto | Inserção obrigatória de no máximo 2000 caracteres; Mínimo 4 letras; Mínimo umm número ou caractere especial |                   |
+| Senha | Caixa de Texto | Mínimo 8 caracteres; Mínimo 2 letras, 4 números e um caracter especial |                   |
+
 
 
 | **Comandos**         |  **Destino**                   | **Tipo**          |
