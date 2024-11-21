@@ -9,7 +9,7 @@ _Visão geral da interação do usuário por meio das telas do sistema. Apresent
 
 Uma tela de apresentação do projeto, de uma forma simples e direta
 
-[`Tela principal do sistema`](../imagens/PagInicial.jpeg)
+[`Tela principal do sistema`](../docs/processsos/imagens/PagInicial.jpeg)
 
 ## 6.2. Escolha de Cadastro
 
