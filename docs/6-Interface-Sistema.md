@@ -22,28 +22,28 @@ O usuário escolhe entre as opções de cadastrar um produto no site, ou cadastr
 
 Usuário preenche as principais informações da comunidade, utilizadas futuramente na descrição de produtos, possibilitando maior visibilidade dos grupos cadastrados.
 
-[`Tela da atividade 1`](imagens/CadastroComunidade.jpeg)
+[`Tela da atividade 1`](imagens/CadastroComunidade.png)
 
 
 ## 6.4. Cadastro Representante
 
 Usuário insere as principais informações do representante, junto com login e senha utilizado para identificar cada comunidade.
 
-[`Tela da atividade 1`](imagens/CadastroRepresentante.jpeg)
+[`Tela da atividade 1`](imagens/CadastroRepresentante.png)
 
 
 ## 6.5. Cadastro Organização
 
 Usuário insere as principais informações da organização, juntamente com login e senha utilizado para identificar cada comunidade
 
-[`Tela da atividade 1`](imagens/CadastroOrganizacao].jpeg)
+[`Tela da atividade 1`](imagens/CadastroOrganizacao.png)
 
 
 ## 6.6. Cadastro Cliente
 
 Usuário preenche as principais informações, junto com o login utilizado para identificar cada cliente na aplicação
 
-[`Tela da atividade 1`](imagens/CadastroCliente.jpeg)
+[`Tela da atividade 1`](imagens/CadastroCliente.png)
 
 
 ## 6.6. Cadastro Produto
