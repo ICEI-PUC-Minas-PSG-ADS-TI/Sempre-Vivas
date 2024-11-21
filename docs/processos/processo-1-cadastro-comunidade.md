@@ -49,6 +49,13 @@ _O usuário inicia o processo selecionando a opção “Cadastrar Novo” e esco
 
 
 
+**Inserir novamente as informações**
+
+| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
+| ---             | ---              | ---            | ---               |
+
+
+
 **Preencher Dados do Representante Pertencente á uma Organização Representativa**
 
 | **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
@@ -72,3 +79,10 @@ _O usuário inicia o processo selecionando a opção “Cadastrar Novo” e esco
 | ---                  | ---                            | ---               |
 | Cadastrar Representante | Direcionamento para página inicial com usuário logado/cadastrado | Default |
 | Cancelar Cadastro | Direcionamento para página inicial com usuário não logado/cadastrado | Cancel |
+
+
+
+**Inserir novamente as informações**
+
+| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
+| ---             | ---              | ---            | ---               |
