@@ -18,5 +18,4 @@ _Ao receber seu pedido, o usuário terá a opção de classificá-lo por meio de
 
 | **Comandos**         |  **Destino**                   | **Tipo** |
 | ---                  | ---                            | ---               |
-| Salvar | Pop-up de confirmação de classificação | Default |
-| Salvar | Retorno para página inicial | Cancel |
+| Enviar | Pop-up de confirmação de classificação | Default |
