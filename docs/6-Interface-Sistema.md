@@ -43,7 +43,7 @@ Usuário insere as principais informações da organização, juntamente com log
 
 Usuário preenche as principais informações, junto com o login utilizado para identificar cada cliente na aplicação
 
-[`Tela Cadastro Cliente`](../docs/processos/imagens/CadastroCliente.png)
+[`Tela Cadastro Cliente`](./processos/imagens/CadastroCliente.png)
 
 
 ## 6.6. Cadastro Produto
