@@ -2,7 +2,7 @@
 
 
 
-![Exemplo de um Modelo BPMN do PROCESSO 3](..docs/processos/imagens/CadastrarProdutoS2.png)
+![Exemplo de um Modelo BPMN do PROCESSO 3](docs/processos/imagens/CadastrarProdutoS2.png)
 
 #### Detalhamento das atividades
 
@@ -25,4 +25,4 @@ _O usuário, cadastrado como comunidade, consegue acessar a opção Cadastrar Pr
 | Cadastrar Produto | Inserir o produto na loja da comunidade  | Default |
 | Cancelar | Retorno para página inicial | Cancel |
 
-![Exemplo de tela para o Processo 3](..docs/processos/imagens/CadastroProduto.jpeg)
+![Exemplo de tela para o Processo 3](docs/processos/imagens/CadastroProduto.jpeg)
