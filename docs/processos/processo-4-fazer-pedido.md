@@ -2,7 +2,7 @@
 
 
 
-![Exemplo de um Modelo BPMN do PROCESSO 4](...docs/processos/imagens/EncomendarProdutoS2.png)
+![Exemplo de um Modelo BPMN do PROCESSO 4](../processos/imagens/EncomendarProdutoS2.png)
 
 #### Detalhamento das atividades
 
@@ -29,4 +29,4 @@ _A opção que permite ao cliente comprar os produtos dentro do site, onde possi
 | Cadastrar Produto | Seleciona a forma de pagamento dentro das possíveis  | Default |
 | Cancelar | Redireciona para a forma de pagamento selecionada e aguarda o recebimento do valor correspondente | Cancel |
 
-![Exemplo de tela para o Processo 4](docs/processos/imagens/Pedido.jpeg)
+![Exemplo de tela para o Processo 4](../processos/imagens/Pedido.jpeg)
