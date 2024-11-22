@@ -1,13 +1,13 @@
 
 # 6. Interface do Sistema
 
-<span style="color:red">Pré-requisitos: <a href="4-Projeto-Solucao.md"> Projeto da Solução</a></span>
-
 _Visão geral da interação do usuário por meio das telas do sistema. Apresente as principais interfaces da plataforma._
 
 ## 6.1. Tela principal do sistema
 
 Uma tela de apresentação do projeto, de uma forma simples e direta
+
+![Imagem](../docs/processos/imagens/PagInicial.jpeg)
 
 [`Tela principal do sistema`](../docs/processos/imagens/PagInicial.jpeg)
 
