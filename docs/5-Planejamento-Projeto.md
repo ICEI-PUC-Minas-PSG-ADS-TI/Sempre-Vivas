@@ -17,7 +17,7 @@
 - _Product Owner_: Matheus Dias
 - _Developers_: Fabia Rodrigues, Júlio Flávio, Yuri Martins
   
-- ### Sprint 4
+### Sprint 4
 - _Scrum master_: Maria Eduarda Salomão
 - _Product Owner_: Matheus Dias
 - _Developers_: Fabia Rodrigues, Júlio Flávio, Yuri Martins
