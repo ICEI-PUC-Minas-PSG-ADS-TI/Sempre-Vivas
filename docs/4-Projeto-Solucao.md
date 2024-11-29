@@ -158,7 +158,7 @@ CREATE TABLE Produto_Pedido(
 #### 2 - Registros
 
 
-##### Cadastra
+##### Cadastra produto
 
 ![Registro cadastra](../docs/processos/imagens/CadastraProduto.sql)
 
@@ -174,7 +174,7 @@ CREATE TABLE Produto_Pedido(
 
 ![Registro conta](../docs/processos/imagens/Conta.sql)
 
-##### Contém
+##### Contém produto
 
 ![Registro contém produto](../docs/processos/imagens/ContemProduto.sql)
 
@@ -201,18 +201,6 @@ CREATE TABLE Produto_Pedido(
 ##### Representante comunidade
 
 ![Registro representante comunidade](../docs/processos/imagens/RepresentanteComunidade.sql)
-
-##### Usuário
-
-![Registro usuário](../docs/processos/imagens/Usuario.sql)
-
-
-
-
-
-
-
-
 
 
 
