@@ -1,0 +1,3 @@
+--Visualização
+
+select * from Realiza;
