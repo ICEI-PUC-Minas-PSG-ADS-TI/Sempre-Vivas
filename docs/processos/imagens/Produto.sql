@@ -1,0 +1,25 @@
+--Inserir Registros Usuario
+
+INSERT INTO Produto (idProduto, nome, descricao, preco) VALUES
+(1, 'Cesta de Palha', 'Cesta artesanal feita à mão com fibras naturais, típica das comunidades ribeirinhas.', 45.50),
+(2, 'Chapéu de Palha', 'Chapéu tradicional confeccionado com palha de buriti, usado em festas e no cotidiano do interior.', 55.00),
+(3, 'Cerâmica Pintada', 'Peça de cerâmica pintada à mão com desenhos típicos das comunidades indígenas.', 69.90),
+(4, 'Artesanato em Madeira', 'Escultura artesanal feita em madeira nativa, representando a fauna local.', 185.20),
+(5, 'Bolsa de Algodão Cru', 'Bolsa simples e prática feita de algodão cru, com bordados manuais típicos do sertão.', 39.80),
+(6, 'Camiseta Bordada', 'Camiseta de algodão com bordado artesanal de motivos tradicionais das comunidades nordestinas.', 79.90),
+(7, 'Sabonete de Coco', 'Sabonete artesanal feito com óleo de coco, ideal para peles sensíveis e ressecadas.', 15.50),
+(8, 'Almofada de Pano', 'Almofada de pano feita manualmente com tecidos coloridos e estampas típicas do folclore brasileiro.', 29.90),
+(9, 'Chaveiro de Cerâmica', 'Chaveiro decorado com miniaturas de animais e figuras tradicionais em cerâmica artesanal.', 10.40),
+(10, 'Camisola de Lã', 'Camisola artesanal feita com lã de ovelha, ideal para os dias mais frios das regiões serranas.', 120.00),
+(11, 'Saco de Feijão Cru', 'Feijão orgânico produzido de forma artesanal em pequenas propriedades rurais.', 12.00),
+(12, 'Peça de Renda Renascença', 'Peça de renda feita à mão, tradicionalmente produzida no nordeste do Brasil.', 195.00),
+(13, 'Colar de Contas', 'Colar artesanal feito com contas coloridas e amuletos típicos das comunidades indígenas.', 22.00),
+(14, 'Cesta de Frutas Secas', 'Cesta artesanal com frutas secas típicas do cerrado brasileiro, como pequi e baru.', 65.30),
+(15, 'Escultura em Pedra', 'Escultura manual em pedra sabão, típica do estado de Minas Gerais, representando figuras mitológicas.', 250.00),
+(16, 'Pano de Prato Bordado', 'Pano de prato com bordados feitos à mão, retratando cenas de vida rural.', 25.90),
+(17, 'Cajado Indígena', 'Cajado tradicionalmente utilizado por líderes indígenas, decorado com penas e desenhos tribais.', 140.00),
+(18, 'Bancos de Madeira', 'Bancos de madeira artesanal com acabamentos rústicos e detalhes esculpidos à mão.', 160.00),
+(19, 'Cinto de Couro', 'Cinto artesanal feito com couro legítimo e costuras manuais típicas de comunidades de vaqueiros.', 85.00),
+(20, 'Tábua de Carne de Madeira', 'Tábua de carne feita de madeira de lei, ideal para preparos culinários tradicionais.', 90.50),
+(21, 'Chocalho de Cabaça', 'Chocalho artesanal feito com cabaça e sementes, utilizado em festas e cerimônias tradicionais.', 12.70),
+(22, 'Pano de Chão de Algodão', 'Pano de chão produzido de algodão de cultivo manual, ideal para casas simples e rústicas.', 18.50);
