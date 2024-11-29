@@ -32,6 +32,11 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Rel
 
 #### 4.1.3 Modelo Físico
 
+#### Criação de tabelas
+
+![Criar tabelas](../docs/processos/imagens/CriarTabelasRegistro.sql)
+
+
 CREATE TABLE Usuario (
     id_Usuario INTEGER PRIMARY KEY 
 );
@@ -134,11 +139,71 @@ CREATE TABLE Produto_Pedido(
 );
 
 
-#### Registros 
 
-#### 1 - Produto
+#### 1 - Alterações
 
-![Registro produto](../docs/processos/imagens/CadastraProdutoRegistro.sql)
+![Registro produto](../docs/processos/imagens/AlteracaoRegistro.sql)
+
+#### 2 - Cadastra
+
+![Registro cadastra](../docs/processos/imagens/CadastraRegistro.sql)
+
+#### 3 - Cliente
+
+![Registro cliente](../docs/processos/imagens/ClienteRegistro.sql)
+
+#### 4 - Comunidade
+
+![Registro comunidade](../docs/processos/imagens/ComunidadeRegistro.sql)
+
+#### 5 - Conta
+
+![Registro conta](../docs/processos/imagens/ContaRegistro.sql)
+
+#### 6 - Contém
+
+![Registro contém](../docs/processos/imagens/ContemRegistro.sql)
+
+#### 7 - Organização
+
+![Registro organização](../docs/processos/imagens/OrganizacaoRegistro.sql)
+
+#### 8 - Pedido
+
+![Registro pedido](../docs/processos/imagens/PedidoRegistro.sql)
+
+#### 9 - Organização
+
+![Registro produto](../docs/processos/imagens/OrganizacaoRegistro.sql)
+
+#### 10 - Usuário
+
+![Registro usuário](../docs/processos/imagens/UsuárioRegistro.sql)
+
+#### 11 - Realiza
+
+![Registro realiza](../docs/processos/imagens/RealizaRegistro.sql)
+
+#### 12 - Representante 
+
+![Registro representante](../docs/processos/imagens/RepresentanteRegistro.sql)
+
+#### 13 - Organização
+
+![Registro produto](../docs/processos/imagens/OrganizacaoRegistro.sql)
+
+#### 14 - Usuário
+
+![Registro usuário](../docs/processos/imagens/UsuarioRegistro.sql)
+
+
+
+
+
+
+
+
+
 
 
 
