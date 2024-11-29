@@ -136,8 +136,10 @@ CREATE TABLE Produto_Pedido(
 
 #### Registros 
 
-#### 1 - Registro Produto
-(../docs/processos/imagens/CadastraProduto.sql)
+#### 1 - Produto
+
+![Registro produto](../docs/processos/imagens/CadastraProdutoRegistro.sql)
+
 
 
 ### 4.4. Tecnologias
