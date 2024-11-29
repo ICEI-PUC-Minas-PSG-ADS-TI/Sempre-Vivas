@@ -134,6 +134,12 @@ CREATE TABLE Produto_Pedido(
 );
 
 
+#### Registros 
+
+#### 1 - Registro Produto
+(../docs/processos/imagens/CadastraProduto.sql)
+
+
 ### 4.4. Tecnologias
 
 | **Dimensão**   | **Tecnologia**  |
