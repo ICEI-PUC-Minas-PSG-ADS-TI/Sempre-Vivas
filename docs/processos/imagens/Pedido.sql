@@ -1,0 +1,25 @@
+--Inserir Registros Pedido
+
+INSERT INTO Pedido (idPedido, valor, data_Pedido, recebedor, enderecoEntrega, frete) VALUES
+(1, 150.50, '2024-03-01', 'João Silva', 'Rua A, 123, São Paulo, SP', 25.50),
+(2, 252.00, '2024-07-10', 'Maria Oliveira', 'Av. B, 456, Rio de Janeiro, RJ', 27.90),
+(3, 103.75, '2024-01-15', 'Carlos Souza', 'Rua C, 789, Belo Horizonte, MG', 30.00),
+(4, 201.00, '2024-04-22', 'Ana Costa', 'Av. D, 321, Curitiba, PR', 18.30),
+(5, 189.30, '2024-06-05', 'Lucas Pereira', 'Rua E, 234, Porto Alegre, RS', 48.10),
+(6, 134.60, '2024-02-20', 'Fernanda Almeida', 'Rua F, 567, Recife, PE', 29.50),
+(7, 221.40, '2024-08-18', 'Eduardo Santos', 'Rua G, 890, Salvador, BA', 51.20),
+(8, 172.90, '2024-05-03', 'Patrícia Lima', 'Av. H, 123, Fortaleza, CE', 19.70),
+(9, 123.50, '2024-09-10', 'Rafael Oliveira', 'Rua I, 345, Campinas, SP', 16.80),
+(10, 399.90, '2024-11-12', 'Juliana Rodrigues', 'Av. J, 678, Manaus, AM', 13.50),
+(11, 1689.80, '2024-10-04', 'Gustavo Martins', 'Rua K, 910, Natal, RN', 22.40),
+(12, 1114.40, '2024-01-11', 'Camila Barbosa', 'Av. L, 112, Florianópolis, SC', 12.60),
+(13, 129.70, '2024-06-30', 'Felipe Costa', 'Rua M, 334, São Luís, MA', 27.00),
+(14, 2231.30, '2024-03-25', 'Tatiane Ferreira', 'Rua N, 556, Goiânia, GO', 21.30),
+(15, 289.50, '2024-05-15', 'Marcos Souza', 'Av. O, 778, Belém, PA', 25.00),
+(16, 11908.20, '2024-11-16', 'Juliana Costa', 'Rua das Palmeiras, 1313, Brasília, DF', 10.75),
+(17, 327.00, '2024-11-17', 'Fabiana Oliveira', 'Avenida Rio Branco, 1414, Goiânia, GO', 20.00),
+(18, 223.80, '2024-11-18', 'Thiago Nunes', 'Rua do Lago, 1515, Vitória, ES', 13.50),
+(19, 1092.90, '2024-11-19', 'Luciana Souza', 'Rua do Imperador, 1616, Belém, PA', 37.90),
+(20, 254.40, '2024-11-20', 'Cássio Martins', 'Avenida Rio de Janeiro, 1717, São Luís, MA', 43.20),
+(21, 18045.10, '2024-11-21', 'Isabela Gomes', 'Rua da Árvore, 1818, Aracaju, SE', 72.20),
+(22, 2923.50, '2024-11-22', 'Robson Costa', 'Avenida do Contorno, 1919, Teresina, PI', 121.20);
