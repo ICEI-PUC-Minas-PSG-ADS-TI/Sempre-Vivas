@@ -32,10 +32,6 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Rel
 
 #### 4.1.3 Modelo Físico
 
-#### Criação de tabelas
-
-![Criar tabelas](../docs/processos/imagens/CriarTabelasRegistro.sql)
-
 
 CREATE TABLE Usuario (
     id_Usuario INTEGER PRIMARY KEY 
@@ -139,62 +135,76 @@ CREATE TABLE Produto_Pedido(
 );
 
 
+#### 1 - Manipulação de tabelas
 
-#### 1 - Alterações
+### Alterações
 
-![Registro produto](../docs/processos/imagens/AlteracaoRegistro.sql)
+![Registro produto](../docs/processos/imagens/Alteracoes.sql)
 
-#### 2 - Cadastra
+#### Criação de tabelas
 
-![Registro cadastra](../docs/processos/imagens/CadastraRegistro.sql)
+![Criar tabelas](../docs/processos/imagens/CreateTable.sql)
 
-#### 3 - Cliente
+#### Vizualização
 
-![Registro cliente](../docs/processos/imagens/ClienteRegistro.sql)
+![Vizualização de tabelas](../docs/processos/imagens/Vizualizacao.sql)
 
-#### 4 - Comunidade
+#### Reset
 
-![Registro comunidade](../docs/processos/imagens/ComunidadeRegistro.sql)
+![Resetar tabelas](../docs/processos/imagens/Reset.sql)
 
-#### 5 - Conta
 
-![Registro conta](../docs/processos/imagens/ContaRegistro.sql)
 
-#### 6 - Contém
+#### 2 - Registros
 
-![Registro contém](../docs/processos/imagens/ContemRegistro.sql)
 
-#### 7 - Organização
+### Cadastra
 
-![Registro organização](../docs/processos/imagens/OrganizacaoRegistro.sql)
+![Registro cadastra](../docs/processos/imagens/CadastraProduto.sql)
 
-#### 8 - Pedido
+### Cliente
 
-![Registro pedido](../docs/processos/imagens/PedidoRegistro.sql)
+![Registro cliente](../docs/processos/imagens/Cliente.sql)
 
-#### 9 - Organização
+### Comunidade
 
-![Registro produto](../docs/processos/imagens/OrganizacaoRegistro.sql)
+![Registro comunidade](../docs/processos/imagens/Comunidade.sql)
 
-#### 10 - Usuário
+### Conta
 
-![Registro usuário](../docs/processos/imagens/UsuárioRegistro.sql)
+![Registro conta](../docs/processos/imagens/Conta.sql)
 
-#### 11 - Realiza
+### Contém
 
-![Registro realiza](../docs/processos/imagens/RealizaRegistro.sql)
+![Registro contém produto](../docs/processos/imagens/ContemProduto.sql)
 
-#### 12 - Representante 
+### Organização
 
-![Registro representante](../docs/processos/imagens/RepresentanteRegistro.sql)
+![Registro organização](../docs/processos/imagens/Organizacao.sql)
 
-#### 13 - Organização
+### Pedido
 
-![Registro produto](../docs/processos/imagens/OrganizacaoRegistro.sql)
+![Registro pedido](../docs/processos/imagens/Pedido.sql)
 
-#### 14 - Usuário
+### Produto
 
-![Registro usuário](../docs/processos/imagens/UsuarioRegistro.sql)
+![Registro produto](../docs/processos/imagens/Produto.sql)
+
+### Usuário
+
+![Registro usuário](../docs/processos/imagens/Usuário.sql)
+
+### Realiza
+
+![Registro realiza pedido](../docs/processos/imagens/RealizaPedido.sql)
+
+### Representante comunidade
+
+![Registro representante comunidade](../docs/processos/imagens/RepresentanteComunidade.sql)
+
+### Usuário
+
+![Registro usuário](../docs/processos/imagens/Usuario.sql)
 
 
 
