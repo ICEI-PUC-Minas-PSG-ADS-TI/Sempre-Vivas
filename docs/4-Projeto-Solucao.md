@@ -14,21 +14,15 @@ Realizar pedido: O Cliente terá a opção no seu carrinho de realizar um pedido
 
 #### 4.1.1 Modelo ER
 
-O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.]
+O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.
 
-> - [Modelo ER]([https://www.ibm.com/docs/pt-br/cognos-analytics/10.2.2?topic=designer-creating-relational-model](https://app.brmodeloweb.com/#!/publicview/673f8032f3fe6ec81282cceb))
+- [Modelo ER](https://drive.google.com/drive/folders/1pbXJxz8Dgqhqe3BGhilFTL2BH3g5Ct7j?usp=drive_link)
 
 #### 4.1.2 Esquema Relacional
 
 O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
  
-As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Relacional”.
-
-> - [Criando um modelo relacional - Documentação da IBM](https://www.ibm.com/docs/pt-br/cognos-analytics/10.2.2?topic=designer-creating-relational-model)
-
-![Exemplo de um modelo relacional](images/modeloRelacional.png "Exemplo de Modelo Relacional.")
----
-
+ - [Modelo Relacional](https://drive.google.com/drive/folders/1vKPtyRScr72G-zo_8jcESeihgsUEyuv1?usp=sharing)
 
 #### 4.1.3 Modelo Físico
 
