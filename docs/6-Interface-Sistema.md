@@ -10,34 +10,28 @@ Uma tela de apresentação do projeto, de uma forma simples e direta
 ![Tela principal do sistema](../docs/processos/imagens/PagInicial.jpeg)
 
 
-## 6.2. Escolha de Cadastro
-
-O usuário escolhe entre as opções de cadastrar um produto no site, ou cadastrar uma nova comunidade. Depois são pedidas as informações pessoais do usuário/comunidade para continuar o registro.
-
-![Tela EScolha de Cadastro](../docs/processos/imagens/EscolhaCadastro.png)
-
-## 6.3. Cadastro Comunidade
+## 6.2. Cadastro Comunidade
 
 Usuário preenche as principais informações da comunidade, utilizadas futuramente na descrição de produtos, possibilitando maior visibilidade dos grupos cadastrados.
 
 ![Tela Cadastro Comunidade](./processos/imagens/CadastroComunidade.png)
 
 
-## 6.4. Cadastro Representante
+## 6.3. Cadastro Representante
 
 Usuário insere as principais informações do representante, junto com login e senha utilizado para identificar cada comunidade.
 
 ![`Tela Cadastro Representante`](./processos/imagens/CadastroRepresentante.png)
 
 
-## 6.5. Cadastro Organização
+## 6.4. Cadastro Organização
 
 Usuário insere as principais informações da organização, juntamente com login e senha utilizado para identificar cada comunidade
 
 ![`Tela Cadastro Organização`](./processos/imagens/CadastroOrganizacao.png)
 
 
-## 6.6. Cadastro Cliente
+## 6.5. Cadastro Cliente
 
 Usuário preenche as principais informações, junto com o login utilizado para identificar cada cliente na aplicação
 
